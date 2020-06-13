@@ -1,4 +1,4 @@
-![Breast-Cancer-Wisconsin-Diagnostic-Data-Analysis-Using-Tensorflow]
+## Breast-Cancer-Wisconsin-Diagnostic-Data-Analysis-Using-Tensorflow
 
 It is a Python3 project to classify cancer data using
 Google's TensorFlow library and Neural Networks. The goal of this
@@ -14,13 +14,15 @@ cancer datasets.
 - [Pandas](http://pandas.pydata.org/)
 - [TensorFlow](https://www.tensorflow.org)
 
-![Some Images of Plots :](img/bar.png)
-(img/correlation.png)
-(img/heatmap.png)
-(img/loss.png)
-(img/tensorboard_PCA.png)
+# Some Images of Plots :
 
-![Author]
+![Some Images of Plots :](img/bar.png)
+![Some Images of Plots :](img/correlation.png)
+![Some Images of Plots :](img/heatmap.png)
+![Some Images of Plots :](img/loss.png)
+![Some Images of Plots :](img/tensorboard_PCA.png)
+
+## Author
 
 - **Mohd Aquib**
 
